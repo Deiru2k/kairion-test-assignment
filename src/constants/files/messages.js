@@ -1,0 +1,1 @@
+export const successMessage = `Your file was successfully uploaded`;

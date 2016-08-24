@@ -1,0 +1,12 @@
+.fileInput {
+  border-radius: 3px;
+  border-width: 1px;
+  padding-top: 5px;
+  padding-bottom: 5px;
+  padding-left: 3px;
+  padding-right: 3px;
+}
+
+.fileInputGroup {
+  margin-right: 10px;
+}

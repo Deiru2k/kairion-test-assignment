@@ -1,0 +1,21 @@
+{
+    "extends": "airbnb",
+    "env": {
+      "browser": true,
+      "es6": true
+    },
+    "rules": {
+      "max-len": [0],
+      "linebreak-style": [0],
+      "quotes": [2, "backtick"],
+      "react/prop-types": [0],
+    },
+    "settings": {
+      "import/resolver": "webpack"
+    },
+    "plugins": [
+        "react",
+        "jsx-a11y",
+        "import"
+    ]
+}
